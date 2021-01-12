@@ -4,7 +4,7 @@ PWA onde é possível listar os livros que deseja ler, além de receber recomend
 
 **Projeto Finalizado!** 
 
-Link: [https://mybooklist-project.web.app/tabs/tab1](https://mybooklist-project.web.app/tabs/tab1) 
+Link: [https://mybooklist-project.web.app/tabs/tab1](https://mybooklist-project.web.app/tabs/tab1)
 
 # Sumário
 <!--ts--> 
