@@ -1,0 +1,33 @@
+ion-list{
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 15px;
+}
+
+ion-list-header{
+    text-transform: uppercase;
+}
+
+.logo {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    padding-top: 10px;
+}
+
+.autor {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.gen {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.lista {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
